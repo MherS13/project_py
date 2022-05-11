@@ -54,7 +54,7 @@ while True:
     clock.tick(fps)
 
 
-#control
+#control snake
 
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
